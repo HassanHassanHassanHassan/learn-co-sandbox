@@ -13,3 +13,5 @@ const person = {
     }
   ]
 }
+
+person.yearsHeld
